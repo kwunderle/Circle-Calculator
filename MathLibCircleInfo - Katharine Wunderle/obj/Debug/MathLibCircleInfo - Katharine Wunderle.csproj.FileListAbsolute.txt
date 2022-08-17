@@ -1,0 +1,10 @@
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\MathLibCircleInfo - Katharine Wunderle\bin\Debug\MathLibCircleInfo - Katharine Wunderle.exe.config
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\MathLibCircleInfo - Katharine Wunderle\bin\Debug\MathLibCircleInfo - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\MathLibCircleInfo - Katharine Wunderle\bin\Debug\MathLibCircleInfo - Katharine Wunderle.pdb
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\MathLibCircleInfo - Katharine Wunderle\obj\Debug\MathLibCircleInfo - Katharine Wunderle.csprojAssemblyReference.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\MathLibCircleInfo - Katharine Wunderle\obj\Debug\MathLibCircleInfo___Katharine_Wunderle.circleInfo.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\MathLibCircleInfo - Katharine Wunderle\obj\Debug\MathLibCircleInfo___Katharine_Wunderle.Properties.Resources.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\MathLibCircleInfo - Katharine Wunderle\obj\Debug\MathLibCircleInfo - Katharine Wunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\MathLibCircleInfo - Katharine Wunderle\obj\Debug\MathLibCircleInfo - Katharine Wunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\MathLibCircleInfo - Katharine Wunderle\obj\Debug\MathLibCircleInfo - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\MathLibCircleInfo - Katharine Wunderle\obj\Debug\MathLibCircleInfo - Katharine Wunderle.pdb
